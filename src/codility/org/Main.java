@@ -10,9 +10,9 @@ public class Main {
 		int[] input = new int[]{1,0,1};
 		int[] output = new int[1];
 		int x = 2;
-		String S = "A";
-		int[] A = new int[] {0};
-		int[] B = new int[] {0};
+		String S = "GAGCCTA";
+		int[] A = new int[] {2,5,0};
+		int[] B = new int[] {4,5,6};
 		//Solution s = new Solution();
 		//FrogJump fj = new FrogJump();
 		//ArrayPermutation ap = new ArrayPermutation();
